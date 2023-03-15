@@ -5,3 +5,4 @@
 ###  https://hal.science/hal-03463014/document
 
 ###  Le modèle proie-prédateur de Lotka-Volterra implémenté en Python  : https://complexe.jimdofree.com/la-th%C3%A9orie-du-chaos/dynamique-des-populations/programmation-en-python/
+### Au cours de cette séancz de recherche, nous avons rencontré un modèle pertinent : le modèle de Lotka Volterra. Nous avons débuté l'écriture du code en inialisant nos variables principales et l'intervalle de temps. Nous implementerons la semaine prochaine les équations différentielles modelisant l'évolution des populations de proies et prédateurs. 
